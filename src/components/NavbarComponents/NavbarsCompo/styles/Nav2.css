@@ -1,0 +1,7 @@
+.img{
+    @media screen(minWidth: 600px) 
+    {
+        height:100px;
+        width:100px;    
+    }
+}
